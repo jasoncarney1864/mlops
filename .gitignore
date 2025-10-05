@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Model artifacts (keep locally; not committed)
+model/*.joblib
+model/*.pkl

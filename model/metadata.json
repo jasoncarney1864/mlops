@@ -1,0 +1,14 @@
+{
+  "feature_names": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "target_name": "MedHouseVal",
+  "rmse": 0.5039602414072009
+}
